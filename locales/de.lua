@@ -1,6 +1,6 @@
 --[[
-English base language translation for qb-inventory
-Translation done by wanderrer (Martin Riggs#0807 on Discord)
+English base language translation for rsg-inventory
+Translation done by Eddy Blake (destiny_ms on Discord)
 ]]--
 local Translations = {
     progress = {
